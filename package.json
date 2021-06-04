@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "## 前言",
+  "author": "JS-banana",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xlsx": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodeJs",
+    "study"
+  ],
+  "license": "ISC",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  }
+}
