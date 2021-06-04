@@ -20,7 +20,7 @@
 ### 豆瓣电影Top250爬虫
 
 ```js
-const doubanTop = require("./request");
+const doubanTop = require("../lib/doubanTop");
 // 获取Top250数量
 doubanTop(50);
 ```
