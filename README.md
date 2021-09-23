@@ -1,26 +1,13 @@
 # Node Js 学习
 
-## 前言
+> nodejs相关内容学习，基础知识，框架和类库使用等
 
-通过自学并实践一些demo巩固nodejs基础。
+## 文件目录
 
-文件目录：
+1. **cheerio**：cheerio 工具爬虫实战
+2. **node-api**：nodejs Api 使用
+3. **text2png**：node文字转图片
 
-```js
-/docs // 学习记录文档
-/lib  // 小功能
-/utils // 插件及方法
-/tests // 测试
-```
+## 博客推荐
 
-## 学习记录
-
-记录一些nodejs实现的小功能。
-
-### 豆瓣电影Top250爬虫
-
-```js
-const doubanTop = require("../lib/doubanTop");
-// 获取Top250数量
-doubanTop(50);
-```
+ <https://blog.poetries.top/>

@@ -1,7 +1,7 @@
 {
   "name": "nodejs-study",
   "version": "1.0.0",
-  "description": "## 前言",
+  "description": "nodejs 相关内容学习",
   "author": "JS-banana",
   "main": "index.js",
   "dependencies": {
@@ -20,10 +20,5 @@
     "nodeJs",
     "study"
   ],
-  "license": "ISC",
-  "directories": {
-    "doc": "docs",
-    "lib": "lib",
-    "test": "tests"
-  }
+  "license": "TIM"
 }
