@@ -7,6 +7,7 @@
 1. **cheerio**：cheerio 工具爬虫实战
 2. **node-api**：nodejs Api 使用
 3. **text2png**：node文字转图片
+4. **puppeteer**：puppeteer无头浏览器使用
 
 ## 博客推荐
 
